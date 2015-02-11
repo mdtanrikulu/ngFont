@@ -6,7 +6,7 @@
     "baymuskulpesent <md.tanrikulu@gmail.com>"
   ],
   "description": "AngularJS Font Fetching Module from Google Fonts",
-  "main": "ngFont.js",
+  "main": "public_html/ngFont.js",
   "keywords": [
     "angularjs",
     "ngFont",
