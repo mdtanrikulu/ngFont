@@ -42,5 +42,5 @@ Install using bower:
  center
  right
  
- <div ng-font font="Lobster" size="90%" italic right> Lorem ipsum dolor sit amet </div>
+ <div ng-font font="Lobster" size="90%" italic right> Lorem ipsum dolor </div>
 ```
