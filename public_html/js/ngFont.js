@@ -28,12 +28,7 @@
                         scope: {
                             font: '@font',
                             size: '@size',
-                            bold: '@bold',
-                            italic: '@italic',
-                            oblique: '@oblique',
-                            shadow: '@shadow',
-                            opacity: '@opacity',
-                            center: '@center'
+                            opacity: '@opacity'
                         },
                         link: function (scope, element, attributes) {
 
